@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <limits>
-
+//translasi
 using namespace std;
 double a [100][100];
 double b [100];
